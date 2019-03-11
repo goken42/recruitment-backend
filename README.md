@@ -7,7 +7,7 @@
 - [Password Encoding](#passwordencoding)
 - [Bonus](#bonus)
 
-## Introduction 
+## Introduction
 
 The goal of this test is to create a basic API to manage admin users and allow them to login 
 
