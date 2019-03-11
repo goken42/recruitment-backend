@@ -62,7 +62,7 @@ A dump file of the database is available and located in the `db` folder of this 
 ## Bonus
 * Choose a coding standard
 * Choose an API standard
-* Choose a standard for automated technical documentation
+* Choose a standard for automated technical documentation generation
 * Manage API Versioning
 * Implement Tests
 * Feel free to add / do whatever it seems wise to you
